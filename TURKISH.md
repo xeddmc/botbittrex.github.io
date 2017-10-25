@@ -4,7 +4,7 @@
 ### BotBittrex Nedir?
 BotBittrex, kripto para birimleri için yazılmış PHP ve RSS tabanlı birçok bölümden oluşan bir Bilgilendirme/ALIŞ-SATIŞ botudur. BotBittrex, kendi algoritması aracılığıyla fiyatının yükselme ihtimali olan altcoinlerden sizi haberdar edebilir, bu altcoinlerden sizin adınıza Bittrex Borsası üzerinden otomatik ALIŞ/SATIŞ yapabilir, yine Bittrex Borsası üzerinden ALIŞ/SATIŞ emirlerinizin gerçekleşmesi durumunda Telegram yoluyla (ya da email ile) size bilgi mesajı gönderebilir ya da almış olduğunuz bir altcoinden kara geçmeye başladığınızda yine Telegram üzerinden (ya da email ile) size bilgilendirme mesajı gönderen ve farklı abonelik tipleri olan bir servistir.
 
-Telegram'da bulunan birçok sinyal grubunun aksine BotBittrex size **ASLA** ALIŞ/SATIŞ sinyali vermez. Bu kadar volatil bir pazarda size kazandırma sözü veren kişi ya da gruplara itibar etmemenizi tavsiye ederiz. **Balina** diye tabir edilen bazı grupların sizlere ellerinde kalan altcoinleri aldırmaya çalıştığını ve işin içine insan girdiğinde hertürlü manipülasyona açık bir sistemin oluştuğunu unutmayın. BotBittrex bir yazılımdır. Kendisine öğretilmiş kriterlere göre işlem yapar. Dışardan insan müdehalesi söz konusu değildir. BotBittrex Pro aboneliği hariç tüm verisyonlarında ALIŞ/SATIŞ kararı tamamen size aittir.
+Telegram'da bulunan birçok sinyal grubunun aksine BotBittrex size **ASLA** ALIŞ/SATIŞ sinyali vermez. Bu kadar volatil bir pazarda size kazandırma sözü veren kişi ya da gruplara itibar etmemenizi tavsiye ederiz. **BALİNA** diye tabir edilen bazı grupların sizlere ellerinde kalan altcoinleri aldırmaya çalıştığını ve işin içine insan girdiğinde hertürlü manipülasyona açık bir sistemin oluştuğunu unutmayın. BotBittrex bir yazılımdır. Kendisine öğretilmiş kriterlere göre işlem yapar. Dışardan insan müdehalesi söz konusu değildir. BotBittrex Pro aboneliği hariç tüm verisyonlarında ALIŞ/SATIŞ kararı tamamen size aittir.
 
 ### BotBitrex'in abonelik tipleri ve farkları nelerdir?
 BotBittrex'in üç farklı abonelik türü bulunmaktadır:
@@ -34,13 +34,18 @@ BotBittrex Free, size üç saatte bir twitter hesabımız [![Twitter Follow](htt
 
 ### BotBittrex Lite'a nasıl üye olabilirim ve neler gereklidir?
 
-BotBittrex Lite aylık abonelikle yaralanabileceğiniz bir servis olup, aylık **0.01 BTC** ücret karşılığında bu servisten yararlanabilirsiniz. Ödemeniz ulaşır ulaşmaz aboneliğiniz başlar ve aboneliğiniz yenilenmediği takdirde 30 gün sonra sistem tarafından aboneliğiniz iptal edilir.
+BotBittrex Lite aylık abonelikle yaralanabileceğiniz bir servis olup, aylık **0.01 BTC** ücret karşılığında bu servisten yararlanabilirsiniz. Ödemeniz ulaşır ulaşmaz aboneliğiniz başlar ve aboneliğiniz yenilenmediği takdirde 30 gün sonra sistem tarafından aboneliğiniz iptal edilir. Ödemenizi aşağıdaki adrese gönderdikten sonra TX bilgisini twitterdan bize ulaştırmanızı istiyoruz.<br>
+
+## BTC:   1LaZG8XELxs9JCzzVJaWyhxQG6tCcswJnx
 
 BotBittrex Lite hizmeti size karlılık ve son 10 ALIŞ/SATIŞ emrinizin gerçekleşmesi bilgilerini içeren bir RSS feed hizmeti sunar. ücretsiz IFTTT.com servisini kullanarak Telegram, Email, Twitter, Facebook vb üzerinden bildirim alabilirsiniz. Lite üyelikte size özel bir URL vereceğiz. O adres sizin 15 dakikada bir güncellenen RSS Feed adresiniz olacak. Herhangi bir hosting, teknik bilgi-beceri gerektirmiyor. Ücretsiz bir IFTTT.com üyeliği yeterli olacaktır. Yaygın olarak **RSS->IFTTT.com->Telegram** dönüşümü kullanılmaktadır.
 
-Bittrex Borsasına üye değilseniz burayada üye olmanız gerekiyor. Bittrex için bu BOT yazıldı. Bittrex üyeliğiniz olduktan sonra 2FA'yı açıp (iki aşamalı güvenlik) API bölümünden aşağıdaki şekilde görüldüğü gibi bir API key oluşturup o keye **SADECE READ** izni verip, key ve secretı [![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](http://twitter.com/botbittrex) üzerinden DM ile ulaştırmanız gerekmektedir. Sadece **READ** izni Lite abonelik için yeterli olup, ne bize ne de başkasına kesinlikle **WITHDRAW** izni vermeyiniz! WITHDRAW izni verdiğiniz API kullanıcıları tüm paranızı çekebilir. Bu yüzden kimseye **WITHDRAW** izni vermeyiniz.
+Bittrex Borsasına üye değilseniz burayada üye olmanız gerekiyor. Bittrex için bu BOT yazıldı. Bittrex üyeliğiniz olduktan sonra 2FA'yı açıp (iki aşamalı güvenlik) API bölümünden aşağıdaki şekilde görüldüğü gibi bir API key oluşturup o keye **SADECE READ INFO** izni verip, key ve secretı [![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](http://twitter.com/botbittrex) üzerinden DM ile ulaştırmanız gerekmektedir. Sadece **READ INFO** izni Lite abonelik için yeterli olup, ne bize ne de başkasına kesinlikle **WITHDRAW** izni vermeyiniz! **WITHDRAW** izni verdiğiniz API kullanıcıları tüm paranızı çekebilir. Bu yüzden kimseye **WITHDRAW** izni vermeyiniz.
 
 ![API Read](API_read.png)
+
+Size ulaşabilmemiz için geçerli bir email adresinizin olması gerekiyor. Yine üyelerimize özel Telegram grubumuza katılmak içinde Telegram kullanıcısı olmanız gerekiyor. Kısa bir süreliğine 7 günlük BotBittrex Lite hizmetimizden yararlanmak için bize twitterdan ulaşabilirsiniz.
+
 
 You can use the [editor on GitHub](https://github.com/botbittrex/botbittrex.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
