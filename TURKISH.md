@@ -1,6 +1,6 @@
-# Welcome to BotBittrex Pages
+# Botbittrex'in GitHub Websitesine Hoşgeldiniz
 
-### For conitnue English, [click here](https://botbittrex.github.com/README.md).<br>
+### [Click here](README.md) to continue in English.[click here].<br>
 You can use the [editor on GitHub](https://github.com/botbittrex/botbittrex.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
