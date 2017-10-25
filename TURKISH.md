@@ -10,8 +10,10 @@ BotBittrex'in üç farklı abonelik türü bulunmaktadır:
 2. BotBittrex Lite
 3. BotBittrex Pro (Geliştiriliyor)
 
-### BotBittrex Free
-BotBittrex'in [![Twitter Follow](https://img.shields.io/twitter/follow/botbittrex.svg?style=social&label=Follow)](http://twitter.com/botbittrex) hesabını takip ederek, kendi algoritmasının belirlediği altcoinlerden ücretsiz olarak her üç saatte bir haberdar olabilirsiniz. Her üç saatte bir 0-5 arası altcoinin mevcut fiyat bilgisini, son bir saat içindeki değişimini **(1H)**, son 24 saat içindeki değişimini **(24H)** ve son bir hafta içersindeki değişimini **(7D)** görebilirsiniz. **Unutmayın botun önerdiği altcoinlerin size kazandırma garantisi yoktur. Seçtiği altcoinlere yatırım yapmak kullanıcının sorumluluğundadır.** Derin bir teknik analiz yapmadan sadece belli kriterlere sahip (hacim, pazar payı, değişim vs.) coinleri seçerek size sunar. Binlerce altcoinin olduğu bu pazarda bu incemeyi biz insanlar tek tek bakarak yapmamız çok uzun zaman alırken bot bunu saniyeler içersinde yapmaktadır. BotBittrex, proof tipi **PoS (Proof of Stake)** olan coinleri **SEÇMEZ.**
+### BotBittrex Free:
+BotBittrex'in [![Twitter Follow](https://img.shields.io/twitter/follow/botbittrex.svg?style=social&label=Follow)](http://twitter.com/botbittrex) hesabını takip ederek, kendi algoritmasının belirlediği altcoinlerden ücretsiz olarak her üç saatte bir haberdar olabilirsiniz. Her üç saatte bir 0-5 arası altcoinin mevcut fiyat bilgisini **(Price)**, son bir saat içindeki değişimini **(1H)**, son 24 saat içindeki değişimini **(24H)** ve son bir hafta içersindeki değişimini **(7D)** görebilirsiniz. **Unutmayın botun önerdiği altcoinlerin size kazandırma garantisi yoktur. Seçtiği altcoinlere yatırım yapmak kullanıcının sorumluluğundadır.** Derin bir teknik analiz yapmadan sadece belli kriterlere sahip (hacim, pazar payı, değişim vs.) coinleri seçerek size sunar. Binlerce altcoinin olduğu bu pazarda bu incemeyi biz insanlar tek tek bakarak yapmamız çok uzun zaman alırken bot bunu saniyeler içersinde yapmaktadır. BotBittrex, proof tipi **PoS (Proof of Stake)** olan coinleri **SEÇMEZ.**
+
+BotBittrex Free hizmetinden yararlanmak için lütfen twitter hesabınımızı takip ediniz: [![Twitter Follow](https://img.shields.io/twitter/follow/botbittrex.svg?style=social&label=Follow)](http://twitter.com/botbittrex)
 
 
 
