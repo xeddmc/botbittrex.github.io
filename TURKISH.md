@@ -83,8 +83,8 @@ Bize her zaman twitter adresimiz ve email adresimizden ulaşabilirsiniz.
 IFTTT.com'a üye olduktan sonra servisler kısmında RSS ve Telegram'ı bulup ekleyin. New Applet düğmesine tıklayarak önce RSS servisini seçin. Sonra New Feed Item'ı seçip ilerleyin. Sonraki aşamada size üye olduktan sonra göndereceğimiz RSS adresini giriniz. Sonraki aşamada Telegram'ı seçip ilerledikten sonra New Private message'ı seçin. Alt kısımdaki kutuya 
 
 ```javascript
-{{EntryTitle}}<br>
-{{EntryContent}}
+    {{EntryTitle}}<br>
+    {{EntryContent}}
 ```
 yazmanız yeterli olacaktır. Çok yakında bu konuda bir videoyuda sizinle paylaşacağız.
 
