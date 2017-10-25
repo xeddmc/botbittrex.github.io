@@ -46,7 +46,6 @@ BotBittrex Lite hizmeti size karlılık ve son 10 ALIŞ/SATIŞ emrinizin gerçek
 Bittrex Borsasına üye değilseniz burayada üye olmanız gerekiyor. Bittrex için bu BOT yazıldı. Bittrex üyeliğiniz olduktan sonra 2FA'yı açıp (iki aşamalı güvenlik) API bölümünden aşağıdaki şekilde görüldüğü gibi bir API key oluşturup o keye **SADECE READ INFO** izni verip, key ve secretı [![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](http://twitter.com/botbittrex) üzerinden DM ile ulaştırmanız gerekmektedir. Sadece **READ INFO** izni Lite abonelik için yeterli olup, ne bize ne de başkasına kesinlikle **WITHDRAW** izni vermeyiniz! **WITHDRAW** izni verdiğiniz API kullanıcıları tüm paranızı çekebilir. Bu yüzden kimseye **WITHDRAW** izni vermeyiniz.
 
 ![API Read](API_read.png)
-
 Üyelerimize özel Telegram grubumuza katılmak için Telegram kullanıcısı olmanız gerekiyor. BotBittrex Lite hizmetini denemek istiyorsanız **ÜCRETSİZ 7 GÜNLÜK** BotBittrex Lite hizmeti için aşağıdaki bilgileri ![Email](email.png) adresine göndermeniz yeterlidir.
 
 * API Key ve Secret
