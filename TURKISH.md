@@ -34,27 +34,27 @@ BotBittrex Free, size üç saatte bir twitter hesabımız [![Twitter Follow](htt
 
 ### BotBittrex Lite'a nasıl üye olabilirim ve neler gereklidir?
 
-BotBittrex Lite aylık abonelikle yaralanabileceğiniz bir servis olup, aylık **0.01 BTC** ücret karşılığında bu servisten yararlanabilirsiniz. Ödemeniz ulaşır ulaşmaz aboneliğiniz başlar ve aboneliğiniz yenilenmediği takdirde 30 gün sonra sistem tarafından aboneliğiniz iptal edilir. Ödemenizi aşağıdaki Bitcoin adresine gönderdikten sonra TX bilgisini ![Email](email.png) adresine göndermeniz gerekiyor.<br>
+BotBittrex Lite aylık abonelikle yaralanabileceğiniz bir servis olup, aylık **0.01 BTC** ücret karşılığında bu servisten yararlanabilirsiniz. Ödemeniz ulaşır ulaşmaz aboneliğiniz başlar ve aboneliğiniz yenilenmediği takdirde 30 gün sonra sistem tarafından aboneliğiniz iptal edilir. Ödemenizi aşağıdaki Bitcoin adresine gönderdikten sonra TX bilgisini ![Email](email.png) adresine göndermeniz gerekmektedir.<br>
 
 **BTC Adresimiz:**
 ### 1LaZG8XELxs9JCzzVJaWyhxQG6tCcswJnx
 
 ![BTC Address](btc_address.png)
 
-BotBittrex Lite hizmeti size karlılık ve son 10 ALIŞ/SATIŞ emrinizin gerçekleşmesi bilgilerini içeren bir RSS feed hizmeti sunar. ücretsiz IFTTT.com servisini kullanarak Telegram, Email, Twitter, Facebook vb üzerinden bildirim alabilirsiniz. Lite üyelikte size özel bir URL vereceğiz. O adres sizin 15 dakikada bir güncellenen RSS Feed adresiniz olacak. Herhangi bir hosting, teknik bilgi-beceri gerektirmiyor. Ücretsiz bir IFTTT.com üyeliği yeterli olacaktır. Yaygın olarak **RSS->IFTTT.com->Telegram** dönüşümü kullanılmaktadır.
+BotBittrex Lite hizmeti size karlılık ve son 10 ALIŞ/SATIŞ emrinizin gerçekleşmesi bilgilerini içeren bir RSS feed hizmeti sunar. Ücretsiz IFTTT.com servisini kullanarak Telegram, Email, Twitter, Facebook vb üzerinden bildirim alabilirsiniz. Lite üyelikte size özel bir URL vereceğiz. O adres sizin 15 dakikada bir güncellenen RSS Feed adresiniz olacak. Herhangi bir hosting, teknik bilgi-beceri gerektirmiyor. Ücretsiz bir IFTTT.com üyeliği yeterli olacaktır. Yaygın olarak **RSS->IFTTT.com->Telegram** dönüşümü kullanılmaktadır.
 
-Bittrex Borsasına üye değilseniz burayada üye olmanız gerekiyor. Bittrex için bu BOT yazıldı. Bittrex üyeliğiniz olduktan sonra 2FA'yı açıp (iki aşamalı güvenlik) API bölümünden aşağıdaki şekilde görüldüğü gibi bir API key oluşturup o keye **SADECE READ INFO** izni verip, key ve secretı [![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](http://twitter.com/botbittrex) üzerinden DM ile ulaştırmanız gerekmektedir. Sadece **READ INFO** izni Lite abonelik için yeterli olup, ne bize ne de başkasına kesinlikle **WITHDRAW** izni vermeyiniz! **WITHDRAW** izni verdiğiniz API kullanıcıları tüm paranızı çekebilir. Bu yüzden kimseye **WITHDRAW** izni vermeyiniz.
+Bittrex Borsasına üye değilseniz burayada üye olmanız gerekiyor. Bittrex üyeliğiniz olduktan sonra 2FA'yı açıp (iki aşamalı güvenlik) API bölümünden aşağıdaki şekilde görüldüğü gibi bir API key oluşturup o keye **SADECE READ INFO** izni verip, key ve secretı ![Email](email.png) ile bize ulaştırmanız gerekmektedir. Sadece **READ INFO** izni Lite abonelik için yeterli olup, ne bize ne de başkasına kesinlikle **WITHDRAW** izni vermeyiniz! **WITHDRAW** izni verdiğiniz API kullanıcıları tüm paranızı çekebilir. Bu yüzden kimseye **WITHDRAW** izni vermeyiniz.
 
 ![API Read](API_read.png)<br>
 Üyelerimize özel Telegram grubumuza katılmak için Telegram kullanıcısı olmanız gerekiyor. BotBittrex Lite hizmetini denemek istiyorsanız **ÜCRETSİZ 7 GÜNLÜK** BotBittrex Lite hizmeti için aşağıdaki bilgileri ![Email](email.png) adresine göndermeniz yeterlidir.
 
 * API Key ve Secret
 * Telegram kullanıcı adınız
-* Twitter kullanıcı adınız
+* Twitter kullanıcı adınız (varsa)
 
 BotBittrex Lite hizmetinden memnun kaldıysanız ve aylık abone olmak istiyorsanız yukarıdaki bilgilere ilave olarak:
 
-* 0.01 BTC gönderdiğinize ait işleme ait TX bilgisi
+* 0.01 BTC gönderdiğinize dair işlemin TX bilgisi
 
 ### BotBittrex Pro:
 
@@ -64,7 +64,7 @@ Bu abonelik türü geliştirilme ve test aşamasındadır.
 
 ### Neden açık kaynak kodlu değil?
 
-BotBittrex yaklaşık 1.5 aylık bir çalışmanın sonucunda ortaya çıktı. Kripto para üzerine birçok kişi ya da kişiler Telegram üzerinden gruplar kurarak ne kadar finans bilgileri olduğu bile bilinmezken birçok kişiden bizim abonelik ücretimizin 10-15 katı ücretler talep etmekteler. Bunların birçoğu aynı sinyalleri birbirlerinden alıp paylaşmaktalar. BotBittrex ise bir algoritma çerçevisinde size önerilerde bulunur ayrıca sadece öneride bulunmakla kalmaz ve mevcut açık emirleriniz gerçekleştiğinde ya da kara geçtiğinizde size yukardaki gibi uyarılar gönderir. Bu emeğin bir karşılığı var. Açık kaynak kodlu olarak sunmayı isterdik ancak birçok **UYANIK** bu kodu alıp emek hırsızlığı yaparak bundan rant elde edecekti. Bu yüzden BotBittrex açık kaynak kodlu değildir.
+BotBittrex yaklaşık 1.5 aylık bir çalışmanın sonucunda ortaya çıktı. Kripto para üzerine birçok kişi ya da kişiler Telegram üzerinden gruplar kurarak ne kadar finans bilgileri olduğu bile bilinmezken birçok kişiden bizim abonelik ücretimizin 10-15 katı ücretler talep etmekteler. Bunların birçoğu aynı sinyalleri birbirlerinden alıp paylaşmaktalar. BotBittrex ise bir algoritma çerçevisinde size önerilerde bulunur ayrıca sadece öneride bulunmakla kalmayıp, mevcut açık emirleriniz gerçekleştiğinde ya da kara geçtiğinizde size yukardaki gibi uyarılar gönderir. Bu emeğin bir karşılığı var. Açık kaynak kodlu olarak sunmayı isterdik ancak birçok **UYANIK** bu kodu alıp emek hırsızlığı yaparak bundan rant elde edecekti. Bu yüzden BotBittrex açık kaynak kodlu değildir.
 
 ### Lite/Pro üyesi oldum ama sistemden hoşnut kalmadım para iadesi yapıyor musunuz?
 
@@ -72,24 +72,24 @@ BotBittrex yaklaşık 1.5 aylık bir çalışmanın sonucunda ortaya çıktı. K
 
 ### Size Bittrex API Key ve Secretımı verirsem BTC'lerimi çalabilir misiniz?
 
-**WITHDRAW** yetkisi vermediğiniz sürece sizin birikimlerinizi Bittrex dışına ne biz ne de başkası API yoluyla çıkaraiblir. Bu konuda içiniz rahat olsun. Lite abonelik için Read INFO yetkisi yeterliyken Pro üyelik için Trade Market yetkiside gerekmektedir.
-
-### Desteğe ihtiyacım olduğunda size nasıl ulaşabilirim?
-
-Bize her zaman twitter adresimiz ve email adresimizden ulaşabilirsiniz.
+**WITHDRAW** yetkisi vermediğiniz sürece sizin birikimlerinizi Bittrex dışına ne biz ne de başkası API yoluyla çıkarabilir. Bu konuda içiniz rahat olsun. Lite abonelik için Read INFO yetkisi yeterliyken Pro üyelik için Trade Market yetkiside gerekmektedir.
 
 ### IFTTT.com üzerinden bana verdiğiniz RSS Feed adresini nasıl ekleyip Telegram'dan mesajlar alacağım?
 
-IFTTT.com'a üye olduktan sonra servisler kısmında RSS ve Telegram'ı bulup ekleyin. New Applet düğmesine tıklayarak önce RSS servisini seçin. Sonra New Feed Item'ı seçip ilerleyin. Sonraki aşamada size üye olduktan sonra göndereceğimiz RSS adresini giriniz. Sonraki aşamada Telegram'ı seçip ilerledikten sonra New Private message'ı seçin. Message text yazan kutuya aşağodaki
+IFTTT.com'a üye olduktan sonra servisler kısmında RSS ve Telegram'ı bulup ekleyin. New Applet düğmesine tıklayarak önce RSS servisini seçin. Sonra New Feed Item'ı seçip ilerleyin. Sonraki aşamada size üye olduktan sonra göndereceğimiz RSS adresini giriniz. Sonraki aşamada Telegram'ı seçip ilerledikten sonra New Private message'ı seçin. Message text yazan kutuya aşağıdaki
 
 ![ifttt](ifttt.png)
 
-doldurmanız yeterli olacaktır. Çok yakında bu konuda bir videoyuda sizinle paylaşacağız.
+doldurmanız yeterli olacaktır. Çok yakında bu konuyla ilgili bir videoyu sizinle paylaşacağız.
 
 ### RSS Feed adresim nasıl olacak?
 
 RSS Feed adresiniz http://server_adresi/**rsskullanıcıadı** veya **kullanıcıadırss**'dir. İkisinide kullanabilirsiniz.
 
-### Size nasıl ulaşabilirim?
+### Size verdiğimiz API bilgilerimizin güvenliğini nasıl sağlıyorsunuz?
 
-Sadece üyeliğinizle ilgili sorunlarınız için email ve twitter hesabımızdan bize ulaşabilirsiniz. Teknik konularda sorularınızı **SADECE** [Issues](https://github.com/botbittrex/botbittrex.github.io/issues) linkinden  sorabilirsiniz. Ayrıca [Wiki](https://github.com/botbittrex/botbittrex.github.io/wiki) sayfalarımızıda okuyarak pekçok sorunun çözümüne kendiniz ulaşabilirsiniz. Email adresimiz : ![Email](email.png) ve Twitter adresimiz : [![Twitter Follow](https://img.shields.io/twitter/follow/botbittrex.svg?style=social&label=Follow)](http://twitter.com/botbittrex)
+API bilgileriniz başka bir sunucuda SHA512 algoritmasıyla şifrelenmektedir. Veritabanımız 7/24 güvenliği yüksek Türkiye'de ticari sunucularda saklanmaktadır. Bu veritabanı çalınsa dahi API bilgileriniz yüksek düzeyde şifrelendiğinden kullanılamaz halde olacaktır.
+
+### Desteğe ihtiyacım olduğunda size nasıl ulaşabilirim?
+
+Sadece üyeliğinizle ilgili sorunlarınız için email ve twitter hesabımızdan bize ulaşabilirsiniz. Teknik konularda sorularınızı **SADECE** [Issues](https://github.com/botbittrex/botbittrex.github.io/issues) linkinden  sorabilirsiniz. Ayrıca [Wiki](https://github.com/botbittrex/botbittrex.github.io/wiki) sayfalarımızıda okuyarak pek çok sorunun çözümüne kendiniz ulaşabilirsiniz. Email adresimiz : ![Email](email.png) ve Twitter adresimiz : [![Twitter Follow](https://img.shields.io/twitter/follow/botbittrex.svg?style=social&label=Follow)](http://twitter.com/botbittrex)
