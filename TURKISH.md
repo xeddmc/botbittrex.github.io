@@ -34,8 +34,13 @@ BotBittrex Free, size üç saatte bir twitter hesabımız [![Twitter Follow](htt
 
 ### BotBittrex Lite'a nasıl üye olabilirim ve neler gereklidir?
 
-BotBittrex Lite'a üye olmanız için 
+BotBittrex Lite aylık abonelikle yaralanabileceğiniz bir servis olup, aylık **0.01 BTC** ücret karşılığında bu servisten yararlanabilirsiniz. Ödemeniz ulaşır ulaşmaz aboneliğiniz başlar ve aboneliğiniz yenilenmediği takdirde 30 gün sonra sistem tarafından aboneliğiniz iptal edilir.
 
+BotBittrex Lite hizmeti size karlılık ve son 10 ALIŞ/SATIŞ emrinizin gerçekleşmesi bilgilerini içeren bir RSS feed hizmeti sunar. IFTTT.com ücretsiz servisi üzerinden Telegram, Email, Twitter, Facebook vb yerler üzerinden bildirim alabilirsiniz. Lite üyelikte size özel bir URL vereceğiz. O adres sizin 15 dakikada bir güncellenen RSS Feed adresiniz olacak. Herhangi bir hosting teknik bilgi beceri gerekmiyor. Ücretsiz bir IFTTT.com üyeliği yeterli olacaktır. Yaygın olacak RSS->IFTTT.com->Telegram dönüşümü kullanılmaktadır.
+
+Bittrex Borsasına üye değilseniz burayada üye olmanız gerekiyor. Zaten BOT'un adından anlaşılacağı üzere. Bittrex için bu BOT yazıldı. Bittrex üyeliğiniz olduktan sonra 2FA'yı açık (iki aşamalı güvenlik) API bölümünden aşağıdaki şekilde görüldüğü gibi bir API key oluşturup o keye **READ** izni verip, key ve secretı [![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](http://twitter.com/botbittrex) üzerinden DM ile ulaştırmanız gerekmektedir. Sadece **READ** izni Lite abonelik için yeterli olup, ne bize ne de başkasına kesinlikle **WITHDRAW** izni vermeyiniz! WITHDRAW izni verdiğiniz API kullanıcıları tüm paranızı çalabilirler. Bu yüzden kimseye **WITHDRAW** izni vermeyiniz.
+
+![API Read](API_read.png)
 
 You can use the [editor on GitHub](https://github.com/botbittrex/botbittrex.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
