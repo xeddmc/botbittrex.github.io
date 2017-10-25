@@ -36,7 +36,7 @@ BotBittrex Free, size üç saatte bir twitter hesabımız [![Twitter Follow](htt
 
 BotBittrex Lite aylık abonelikle yaralanabileceğiniz bir servis olup, aylık **0.01 BTC** ücret karşılığında bu servisten yararlanabilirsiniz. Ödemeniz ulaşır ulaşmaz aboneliğiniz başlar ve aboneliğiniz yenilenmediği takdirde 30 gün sonra sistem tarafından aboneliğiniz iptal edilir. Ödemenizi aşağıdaki Bitcoin adresine gönderdikten sonra TX bilgisini ![Email](email.png) adresine göndermeniz gerekiyor.<br>
 
-### BTC Adresimiz:
+**BTC Adresimiz:**
 ### 1LaZG8XELxs9JCzzVJaWyhxQG6tCcswJnx
 
 ![BTC Address](btc_address.png)
@@ -56,38 +56,42 @@ BotBittrex Lite hizmetinden memnun kaldıysanız ve aylık abone olmak istiyorsa
 
 * 0.01 BTC gönderdiğinize ait işleme ait TX bilgisi
 
-You can use the [editor on GitHub](https://github.com/botbittrex/botbittrex.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### BotBittrex Pro:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Bu abonelik türü geliştirilme ve test aşamasındadır.
 
-### Markdown
+## Sıkça Sorulan Sorular:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Neden açık kaynak kodlu değil?
+
+BotBittrex yaklaşık 1.5 aylık bir çalışmanın sonucunda ortaya çıktı. Kripto para üzerine birçok kişi ya da kişiler Telegram üzerinden gruplar kurarak ne kadar finans bilgileri olduğu bile bilinmezken birçok kişiden bizim abonelik ücretimizin 10-15 katı ücretler talep etmekteler. Bunların birçoğu aynı sinyalleri birbirlerinden alıp paylaşmaktalar. BotBittrex ise bir algoritma çerçevisinde size önerilerde bulunur ayrıca sadece öneride bulunmakla kalmaz ve mevcut açık emirleriniz gerçekleştiğinde ya da kara geçtiğinizde size yukardaki gibi uyarılar gönderir. Bu emeğin bir karşılığı var. Açık kaynak kodlu olarak sunmayı isterdik ancak birçok **UYANIK** bu kodu alıp emek hırsızlığı yaparak bundan rant elde edecekti. Bu yüzden BotBittrex açık kaynak kodlu değildir.
+
+### Lite/Pro üyesi oldum ama sistemden hoşnut kalmadım para iadesi yapıyor musunuz?
+
+Ücretsiz deneme hizmeti sunduğumuzdan herhangi bir para iadesi yapmıyoruz.
+
+### Size Bittrex API Key ve Secretımı verirsem BTC'lerimi çalabilir misiniz?
+
+**WITHDRAW** yetkisi vermediğiniz sürece sizin birikimlerinizi Bittrex dışına ne biz ne de başkası API yoluyla çıkaraiblir. Bu konuda içiniz rahat olsun. Lite abonelik için Read INFO yetkisi yeterliyken Pro üyelik için Trade Market yetkiside gerekmektedir.
+
+### Desteğe ihtiyacım olduğunda size nasıl ulaşabilirim?
+
+Bize her zaman twitter adresimiz ve email adresimizden ulaşabilirsiniz.
+
+### IFTTT.com üzerinden bana verdiğiniz RSS Feed adresini nasıl ekleyip Telegram'dan mesajlar alacağım?
+
+IFTTT.com'a üye olduktan sonra servisler kısmında RSS ve Telegram'ı bulup ekleyin. New Applet düğmesine tıklayarak önce RSS servisini seçin. Sonra New Feed Item'ı seçip ilerleyin. Sonraki aşamada size üye olduktan sonra göndereceğimiz RSS adresini giriniz. Sonraki aşamada Telegram'ı seçip ilerledikten sonra New Private message'ı seçin. Alt kısımdaki kutuya 
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+{{EntryTitle}}<br>
+{{EntryContent}}
 ```
+yazmanız yeterli olacaktır. Çok yakında bu konuda bir videoyuda sizinle paylaşacağız.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### RSS Feed adresim nasıl olacak?
 
-### Jekyll Themes
+RSS Feed adresiniz http://server_adresi/**rsskullanıcıadı** veya **kullanıcıadırss**'dir. İkisinide kullanabilirsiniz.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/botbittrex/botbittrex.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Size nasıl ulaşabilirim?
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Email adresimiz : ![Email](email.png) ve Twitter adresimiz : [![Twitter Follow](https://img.shields.io/twitter/follow/botbittrex.svg?style=social&label=Follow)](http://twitter.com/botbittrex)
