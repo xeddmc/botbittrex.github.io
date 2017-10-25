@@ -13,6 +13,8 @@ BotBittrex'in üç farklı abonelik türü bulunmaktadır:
 ### BotBittrex Free:
 BotBittrex'in [![Twitter Follow](https://img.shields.io/twitter/follow/botbittrex.svg?style=social&label=Follow)](http://twitter.com/botbittrex) hesabını takip ederek, kendi algoritmasının belirlediği altcoinlerden ücretsiz olarak her üç saatte bir haberdar olabilirsiniz. Her üç saatte bir 0-5 adet seçilmiş altcoinin mevcut fiyat bilgisini **(Price)**, son bir saat içindeki değişimini **(1H)**, son 24 saat içindeki değişimini **(24H)** ve son bir hafta içersindeki değişimini **(7D)** görebilirsiniz. **Unutmayın BOTun önerdiği altcoinlerin size para kazandırma garantisi yoktur. Seçtiği altcoinlere yatırım yapmak kullanıcının sorumluluğundadır.** Derin bir teknik analiz yapmadan sadece belli kriterlere sahip (Hacim, Pazar Payı, Değişim vs.) altcoinleri seçerek size sunar. Binlerce altcoinin olduğu bu pazarda bu incelemeyi biz insanların tek tek altcoinlere bakarak yapması çok uzun zaman alırken, BOT bunu saniyeler içersinde yapmaktadır. BotBittrex, proof tipi **PoS (Proof of Stake)** olan altcoinleri **SEÇMEZ.**
 
+![Twitter](twitter.png)
+
 BotBittrex Free hizmetinden yararlanmak için lütfen [![Twitter Follow](https://img.shields.io/twitter/follow/botbittrex.svg?style=social&label=Follow)](http://twitter.com/botbittrex) takip ediniz.
 
 ### BotBittrex Lite:
