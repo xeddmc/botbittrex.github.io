@@ -36,8 +36,8 @@ BotBittrex Free, size üç saatte bir twitter hesabımız [![Twitter Follow](htt
 
 BotBittrex Lite aylık abonelikle yaralanabileceğiniz bir servis olup, aylık **0.01 BTC** ücret karşılığında bu servisten yararlanabilirsiniz. Ödemeniz ulaşır ulaşmaz aboneliğiniz başlar ve aboneliğiniz yenilenmediği takdirde 30 gün sonra sistem tarafından aboneliğiniz iptal edilir. Ödemenizi aşağıdaki adrese gönderdikten sonra TX bilgisini twitterdan bize ulaştırmanızı istiyoruz.<br>
 
-## BTC:
-## 1LaZG8XELxs9JCzzVJaWyhxQG6tCcswJnx
+### BTC Adresimiz:
+### 1LaZG8XELxs9JCzzVJaWyhxQG6tCcswJnx
 
 ![BTC Address](btc_address.png)
 
@@ -48,7 +48,6 @@ Bittrex Borsasına üye değilseniz burayada üye olmanız gerekiyor. Bittrex i�
 ![API Read](API_read.png)
 
 Size ulaşabilmemiz için geçerli bir email adresinizin olması gerekiyor. Yine üyelerimize özel Telegram grubumuza katılmak içinde Telegram kullanıcısı olmanız gerekiyor. Kısa bir süreliğine 7 günlük BotBittrex Lite hizmetimizden yararlanmak için bize twitterdan ulaşabilirsiniz.
-
 
 You can use the [editor on GitHub](https://github.com/botbittrex/botbittrex.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
