@@ -1,4 +1,4 @@
-# Welcome to BotBittrex' GitHub Website
+# Welcome to BotBittrex's GitHub Website
 
 ### Türkçe devam etmek istiyorsanız, [burayı tıklayınız](TURKISH.md).<br>
 You can use the [editor on GitHub](https://github.com/botbittrex/botbittrex.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
