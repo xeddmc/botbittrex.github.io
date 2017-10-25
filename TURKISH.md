@@ -4,6 +4,8 @@
 ### BotBittrex Nedir?
 BotBittrex, kripto para birimleri için yazılmış PHP ve RSS tabanlı birçok bölümden oluşan bir Bilgilendirme/ALIŞ-SATIŞ BOTudur. BotBittrex, kendi algoritması aracılığıyla fiyatının yükselme ihtimali olan altcoinlerden sizi haberdar edebilir, bu altcoinlerden sizin adınıza Bittrex Borsası üzerinden otomatik ALIŞ/SATIŞ yapabilir, yine Bittrex Borsası üzerinden ALIŞ/SATIŞ emirlerinizin gerçekleşmesi durumunda Telegram üzerinden (ya da email ile) size bilgi mesajı gönderebilir ya da almış olduğunuz bir altcoinden kara geçmeye başladığınızda yine Telegram üzerinden (ya da email ile) size bilgilendirme mesajı gönderen ve farklı abonelik tipleri olan bir servistir.
 
+Telegram'da bulunan birçok sinyal grubunun aksine BotBittrex size **ASLA** ALIŞ/SATIŞ sinyali vermez. Bu kadar volatil bir pazarda size kazandırma sözü veren kişi ya da gruplara itibar etmemenizi tavsiye ederiz. **Balina** diye tabir edilen bazı grupların size ellerinde kalan altcoinleri aldırmaya çalıştığını ve işin içine insan girdiğinde hertürlü manipülasyona açık bir sistemin oluştuğunu unutmayın. BotBittrex bir yazılımdır. Kendisine verilen kriterlere göre işlem yapar. Dışardan insan müdehalesi söz konusu değildir. Pro abonelik hariç tüm verisyonlarında ALIŞ/SATIŞ kararı size aittir.
+
 ### BotBitrex'in abonelik tipleri ve farkları nelerdir?
 BotBittrex'in üç farklı abonelik türü bulunmaktadır:
 1. BotBittrex Free
@@ -28,7 +30,7 @@ Buna ek olarak elinizdeki altcoinlerin son fiyat bilgilerini 15 dakikada bir kon
 
 BotBittrex Free, size üç saatte bir twitter hesabımız [![Twitter Follow](https://img.shields.io/twitter/follow/botbittrex.svg?style=social&label=Follow)](http://twitter.com/botbittrex) üzerinden altcoin önerirken, BotBittrex Lite ile Telegram kanalımıza katılarak 15 dakikada bir algoritmanın önerdiği altcoinlerden haberdar olabilirsiniz.
 
-
+![Signal](Telegram_signal.png)
 
 You can use the [editor on GitHub](https://github.com/botbittrex/botbittrex.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
