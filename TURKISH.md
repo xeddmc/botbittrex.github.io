@@ -20,9 +20,7 @@ BotBittrex Free hizmetinden yararlanmak için lütfen [![Twitter Follow](https:/
 ### BotBittrex Lite:
 BotBittrex Lite, Bittrex API kullanarak mevcut emirlerinizin durumunu 15 dakikada bir kontrol eder ve açık emirlerinizin gerçekleşmesi durumunda aşağıdakine benzer Telegram mesajları (ya da email) gönderir.
 
-
-resim
-
+![Orders](Telegram_iOS.png)
 
 Buna ek olarak elinizdeki altcoinlerin son fiyat bilgilerini 15 dakikada bir kontrol ederek, kara geçtiğinizde size Telegram (ya da email) ile bilgilendirme mesajları gönderir.
 
