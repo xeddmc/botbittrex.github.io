@@ -92,4 +92,4 @@ RSS Feed adresiniz http://server_adresi/**rsskullanıcıadı** veya **kullanıc�
 
 ### Size nasıl ulaşabilirim?
 
-Email adresimiz : ![Email](email.png) ve Twitter adresimiz : [![Twitter Follow](https://img.shields.io/twitter/follow/botbittrex.svg?style=social&label=Follow)](http://twitter.com/botbittrex)
+Sadece üyeliğinizle ilgili sorunlarınız için email ve twitter hesabımızdan bize ulaşabilirsiniz. Teknik konularda sorularınızı **SADECE** [Issues](https://github.com/botbittrex/botbittrex.github.io/issues) linkinden  sorabilirsiniz. Ayrıca [Wiki](https://github.com/botbittrex/botbittrex.github.io/wiki) sayfalarımızıda okuyarak pekçok sorunun çözümüne kendiniz ulaşabilirsiniz. Email adresimiz : ![Email](email.png) ve Twitter adresimiz : [![Twitter Follow](https://img.shields.io/twitter/follow/botbittrex.svg?style=social&label=Follow)](http://twitter.com/botbittrex)
