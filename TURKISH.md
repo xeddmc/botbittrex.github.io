@@ -34,7 +34,7 @@ BotBittrex Free, size üç saatte bir twitter hesabımız [![Twitter Follow](htt
 
 ### BotBittrex Lite'a nasıl üye olabilirim ve neler gereklidir?
 
-BotBittrex Lite aylık abonelikle yaralanabileceğiniz bir servis olup, aylık **0.01 BTC** ücret karşılığında bu servisten yararlanabilirsiniz. Ödemeniz ulaşır ulaşmaz aboneliğiniz başlar ve aboneliğiniz yenilenmediği takdirde 30 gün sonra sistem tarafından aboneliğiniz iptal edilir. Ödemenizi aşağıdaki adrese gönderdikten sonra TX bilgisini twitterdan bize ulaştırmanızı istiyoruz.<br>
+BotBittrex Lite aylık abonelikle yaralanabileceğiniz bir servis olup, aylık **0.01 BTC** ücret karşılığında bu servisten yararlanabilirsiniz. Ödemeniz ulaşır ulaşmaz aboneliğiniz başlar ve aboneliğiniz yenilenmediği takdirde 30 gün sonra sistem tarafından aboneliğiniz iptal edilir. Ödemenizi aşağıdaki Bitcoin adresine gönderdikten sonra TX bilgisini ![Email](email.png) adresine göndermeniz gerekiyor.<br>
 
 ### BTC Adresimiz:
 ### 1LaZG8XELxs9JCzzVJaWyhxQG6tCcswJnx
@@ -47,7 +47,15 @@ Bittrex Borsasına üye değilseniz burayada üye olmanız gerekiyor. Bittrex i�
 
 ![API Read](API_read.png)
 
-Size ulaşabilmemiz için geçerli bir email adresinizin olması gerekiyor. Yine üyelerimize özel Telegram grubumuza katılmak içinde Telegram kullanıcısı olmanız gerekiyor. Kısa bir süreliğine 7 günlük BotBittrex Lite hizmetimizden yararlanmak için bize twitterdan ulaşabilirsiniz.
+Üyelerimize özel Telegram grubumuza katılmak için Telegram kullanıcısı olmanız gerekiyor. BotBittrex Lite hizmetini denemek istiyorsanız **ÜCRETSİZ 7 GÜNLÜK** BotBittrex Lite hizmeti için aşağıdaki bilgileri ![Email](email.png) adresine göndermeniz yeterlidir.
+
+* API Key ve Secret
+* Telegram kullanıcı adınız
+* Twitter kullanıcı adınız
+
+BotBittrex Lite hizmetinden memnun kaldıysanız ve aylık abone olmak istiyorsanız yukarıdaki bilgilere ilave olarak:
+
+* 0.01 BTC gönderdiğinize ait işleme ait TX bilgisi
 
 You can use the [editor on GitHub](https://github.com/botbittrex/botbittrex.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
