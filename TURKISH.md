@@ -81,11 +81,10 @@ Bize her zaman twitter adresimiz ve email adresimizden ulaşabilirsiniz.
 ### IFTTT.com üzerinden bana verdiğiniz RSS Feed adresini nasıl ekleyip Telegram'dan mesajlar alacağım?
 
 IFTTT.com'a üye olduktan sonra servisler kısmında RSS ve Telegram'ı bulup ekleyin. New Applet düğmesine tıklayarak önce RSS servisini seçin. Sonra New Feed Item'ı seçip ilerleyin. Sonraki aşamada size üye olduktan sonra göndereceğimiz RSS adresini giriniz. Sonraki aşamada Telegram'ı seçip ilerledikten sonra New Private message'ı seçin. Alt kısımdaki kutuya 
-<pre>
->%7B
->{{EntryTitle}}<br>
->{{EntryContent}}
-</pre>
+
+    &#123;&#123;EntryTitle&#125;&#125;<br>
+    &#123;&#123;EntryContent&#125;&#125;
+
 yazmanız yeterli olacaktır. Çok yakında bu konuda bir videoyuda sizinle paylaşacağız.
 
 ### RSS Feed adresim nasıl olacak?
