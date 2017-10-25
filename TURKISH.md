@@ -24,9 +24,7 @@ BotBittrex Lite, Bittrex API kullanarak mevcut emirlerinizin durumunu 15 dakikad
 
 Buna ek olarak elinizdeki altcoinlerin son fiyat bilgilerini 15 dakikada bir kontrol ederek, kara geçtiğinizde size Telegram (ya da email) ile bilgilendirme mesajları gönderir.
 
-
-resim
-
+![Profit](Telegram_profit.png)
 
 BotBittrex Free, size üç saatte bir twitter hesabımız [![Twitter Follow](https://img.shields.io/twitter/follow/botbittrex.svg?style=social&label=Follow)](http://twitter.com/botbittrex) üzerinden altcoin önerirken, BotBittrex Lite ile Telegram kanalımıza katılarak 15 dakikada bir algoritmanın önerdiği altcoinlerden haberdar olabilirsiniz.
 
