@@ -6,14 +6,14 @@ BotBittrex is a PHP-RSS bot script that written for Cryptocurrencies. It basical
 
 BotBittrex will **NEVER** send you BUY/SELL signal. There are millions of Telegram groups for that. To be honest, in this type of volotile markets nobody can tell you to the future precisely and nobody can give you guarantee for making money. As you know lots of **WHALE** groups exists in crytocurrency market and most of them try to you buy their coins. If the human involves the system always getting worse and open for manipulations. BotBittrex is a software. It follows his tasks and calculations. Nobody can change its way. On all of BotBittrex subscriptions, BUY/SELL decisions will made by you except BotBittrex Pro subscription.
 
-### What type of BotBitrex subscriptions available and what's the difference?
-BotBittrex'in üç farklı abonelik türü bulunmaktadır:
+### What type of BotBitrex subscriptions available and what's the differences?
+There three type of subscriptions available for BotBittrex:
 1. BotBittrex Free
 2. BotBittrex Lite
-3. BotBittrex Pro (Geliştiriliyor)
+3. BotBittrex Pro (Developing)
 
 ### BotBittrex Free:
-BotBittrex'in [![Twitter Follow](https://img.shields.io/twitter/follow/botbittrex.svg?style=social&label=Follow)](http://twitter.com/botbittrex) hesabını takip ederek, algoritmasının belirlediği altcoinlerden ücretsiz olarak her üç saatte bir haberdar olabilirsiniz. Her üç saatte bir 0-5 adet seçilmiş altcoinin mevcut fiyat bilgisini **(Price)**, son bir saat içindeki değişimini **(1H)**, son 24 saat içindeki değişimini **(24H)** ve son bir hafta içersindeki değişimini **(7D)** görebilirsiniz. **Unutmayın BotBittrex'in önerdiği altcoinlerin size para kazandırma garantisi yoktur. Seçtiği altcoinlere yatırım yapmak kullanıcının sorumluluğundadır.** Derin bir teknik analiz yapmadan sadece belli kriterlere sahip (Hacim, Pazar Payı, Değişim vs.) altcoinleri seçerek size sunar. Binlerce altcoinin olduğu bu pazarda bu incelemeyi biz insanların tek tek altcoinlere bakarak yapması çok uzun zaman alırken, BotBittrex bunu saniyeler içersinde yapmaktadır. BotBittrex, proof tipi **PoS (Proof of Stake)** olan altcoinleri **SEÇMEZ.**
+You can [![Twitter Follow](https://img.shields.io/twitter/follow/botbittrex.svg?style=social&label=Follow)](http://twitter.com/botbittrex) BotBittrex on Twitter and be aware of the coins that choosen by its algorithm on every three hours. Every three hours BotBittrex tweets 0-5 altcoins with last price **(Price)**, last one hour change **(1H)**, last 24 hour change **(24H)** and last 7 days change **(7D)** informations. **DO NOT FORGET, BotBittrex will never make investment advices. Making investment for these altcoins in your responsiblity.** BotBittrex does not makes deep technical analyze. Just checks certain criterions like (Volume, Market Cap, Changes etc.) and picks the best coins. As you know thousands of altcoins available and checking all of them one by one takes days for humans but BotBittrex can handle this job in couple of seconds. BotBittrex **WILL NOT** choose **PoS (Proof of Stake)** type of altcoins.
 
 ![Twitter](twitter.png)
 
