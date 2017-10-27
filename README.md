@@ -1,6 +1,6 @@
 # Welcome to BotBittrex's GitHub Website
 
-### Türkçe devam etmek istiyorsanız, [burayı tıklayınız](TURKISH.md).<br>
+## [TÜRKÇE DEVAM ETMEK İSTİYORSANIZ, BURAYI TIKLAYINIZ](TURKISH.md).<br>
 ### What is the BotBittrex?
 BotBittrex is a PHP-RSS bot script that written for Cryptocurrencies. It basically sends you notifications about your Open Orders, Profits, Altcoins' Informations and It can make trade on behalf of you in Bittrex Exchange. Thanks to BotBittrex's unique algorithm, it can calculate and notify you about possible upward altcoins price changes, It can BUY/SELL these coins on behalf of you in Bittrex Exchange, If you Bittrex Exchange order completed, It can send notifications via Telegram (or email) or If you made a profit after bought an altcoin, It can send notifications via Telegram (or email). There are there type of subscription available on BotBittrex.
 
