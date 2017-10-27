@@ -1,6 +1,7 @@
 # BotBittrex'in GitHub Websitesine Hoşgeldiniz
 
-### [Click here](README.md) to continue in English.<br>
+## [CLICK HERE TO CONTINUE IN ENGLISH](README.md).<br>
+
 ### BotBittrex Nedir?
 BotBittrex, kripto para birimleri için yazılmış PHP ve RSS tabanlı birçok bölümden oluşan bir Bilgilendirme/ALIŞ-SATIŞ botudur. BotBittrex, kendi algoritması aracılığıyla fiyatının yükselme ihtimali olan altcoinlerden sizi haberdar edebilen, bu altcoinlerden sizin adınıza Bittrex Borsası üzerinden otomatik ALIŞ/SATIŞ yapabilen, yine Bittrex Borsası üzerinden ALIŞ/SATIŞ emirlerinizin gerçekleşmesi durumunda Telegram yoluyla (ya da email ile) size bilgi mesajı gönderebilen ya da almış olduğunuz bir altcoinden kara geçmeye başladığınızda yine Telegram üzerinden (ya da email ile) size bilgilendirme mesajı gönderebilen ve farklı abonelik tipleri olan bir servistir.
 
