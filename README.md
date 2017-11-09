@@ -10,7 +10,7 @@ BotBittrex will **NEVER** send you BUY/SELL signal. There are millions of Telegr
 There three type of subscriptions available for BotBittrex:
 1. BotBittrex Free
 2. BotBittrex Lite
-3. BotBittrex Pro (Developing)
+3. BotBittrex Pro (Being developed)
 
 ### BotBittrex Free:
 You can [![Twitter Follow](https://img.shields.io/twitter/follow/botbittrex.svg?style=social&label=Follow)](http://twitter.com/botbittrex) BotBittrex on Twitter and be aware of the coins that choosen by its algorithm on every three hours. Every three hours BotBittrex tweets 0-5 altcoins with last price **(Price)**, last one hour change **(1H)**, last 24 hour change **(24H)** and last 7 days change **(7D)** informations. **DO NOT FORGET, BotBittrex will never make investment advices. Making investment for these altcoins in your responsiblity.** BotBittrex does not makes deep technical analyze. Just checks certain criterions like (Volume, Market Cap, Changes etc.) and picks the best coins. As you know thousands of altcoins available and checking all of them one by one takes days for humans but BotBittrex can handle this job in couple of seconds. BotBittrex **WILL NOT** choose **PoS (Proof of Stake)** type of altcoins.
